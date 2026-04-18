@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Restaurant intelligence dataset for Davenport, Iowa with a population of over 101k. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Davenport, Iowa, US",
-  "export_job_id": "cb0967d5-3460-4570-88db-e9bdea62ee5c",
+  "export_job_id": "84e29d40-0f32-4ba6-9464-8455df440fb5",
   "github_org": "Beamstation-Datasets",
   "id_short": 819012,
   "location_name": "Davenport",
   "location_type": "city",
   "repo_name": "all-restaurants-in-davenport-iowa-us-sample-819012",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/819012/beamstation_819012_restaurants-us-ia_SAMPLE_DIST.csv",
-  "sample_pct": 10.54,
+  "sample_pct": 9.94,
   "sample_records": 35,
   "sample_sha256": "f2c20a6e92d0cca064dd3505e504b4288d31302fe7076487d0b99abd05d1eba7",
   "sample_size_bytes": 139898,
-  "total_records": 332,
-  "updated_at": "2026-03-31T13:24:41.826267+00:00"
+  "total_records": 352,
+  "updated_at": "2026-04-14T13:43:31.868527+00:00"
 }
