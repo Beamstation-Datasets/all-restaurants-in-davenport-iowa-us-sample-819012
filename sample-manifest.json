@@ -1,12 +1,12 @@
 {
-  "export_job_id": "84e29d40-0f32-4ba6-9464-8455df440fb5",
+  "export_job_id": "15bc111c-fe74-47ef-b866-25ed0bec0249",
   "id_short": 819012,
-  "published_at": "2026-04-18T07:05:44Z",
+  "published_at": "2026-04-21T19:51:37Z",
   "repo_name": "all-restaurants-in-davenport-iowa-us-sample-819012",
   "sample_asset_name": "beamstation_819012_restaurants-us-ia_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/819012/beamstation_819012_restaurants-us-ia_SAMPLE_DIST.csv",
-  "sample_records": 35,
-  "sample_sha256": "f2c20a6e92d0cca064dd3505e504b4288d31302fe7076487d0b99abd05d1eba7",
-  "sample_size_bytes": 139898,
-  "total_records": 352
+  "sample_records": 10,
+  "sample_sha256": "7f4571ffff207ab890031db936c3b90d95df25a22628c5556d1299205be40416",
+  "sample_size_bytes": 50799,
+  "total_records": 105
 }
