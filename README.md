@@ -1,6 +1,6 @@
 # All Restaurants in Davenport, Iowa, US
 
-> Free BeamStation sample export with 34 rows and masked direct-contact fields.
+> Free BeamStation sample export with 36 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `819012` |
 | Location | Davenport |
 | Category | Restaurants |
-| Full dataset size | 344 records |
-| Free sample size | 34 records (9.88%) |
-| Last export | 2026-04-28T15:40:57.464421+00:00 |
+| Full dataset size | 364 records |
+| Free sample size | 36 records (9.89%) |
+| Last export | 2026-05-06T10:10:20.462200+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-davenport-iowa-us-sample-819012/releases/download/sample-latest/beamstation_819012_restaurants-us-ia_SAMPLE_DIST.csv) |
 
 ## What is in this sample
